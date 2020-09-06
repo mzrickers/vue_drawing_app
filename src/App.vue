@@ -8,3 +8,10 @@ export default {
   name: 'App'
 }
 </script>
+
+<style lang="sass">
+
+  #q-app
+    background-color: grey 
+
+</style>
